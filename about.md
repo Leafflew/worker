@@ -4,7 +4,7 @@ title: About
 permalink: /about/	
 ---
 
-*项目用于收集声援工人行动的相关文章，并参考端点星计划进行维护。*
+*项目用于收集声援工人行动的相关文章，并参考[端点星计划](https://github.com/Terminus2049/Terminus2049.github.io)进行维护。*
 *以下为端点星计划介绍，可作为同类型项目的参考教程*
 
 > ## **端点星计划是什么**
@@ -34,13 +34,13 @@ permalink: /about/
 >
 > 但是，这些镜像内容无法自动同步，你可以通过设置 [backstroke-bot](https://backstroke.co/) 机器人或者设置定时任务自动同步，详见 [自动更新镜像](https://github.com/Terminus2049/Terminus2049.github.io/issues/106)。
 >
->  #### **有效镜像**
+> #### **有效镜像**
 >
 > * <https://cmmei.github.io/Terminus/> （同步较快，推荐）
 > * <https://tsai1993.github.io/Terminus/> （同步较快，推荐）
 > * <https://no404more.github.io/Terminus/>
 >
->  ## **致谢**
+> ## **致谢**
 >
 > ### **开源程序**
 >
