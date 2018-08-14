@@ -4,7 +4,7 @@ title: About
 permalink: /about/	
 ---
 
-*项目用于收集声援工人行动的相关文章，并参考[端点星计划](https://github.com/Terminus2049/Terminus2049.github.io)进行维护。*
+*[项目](https://github.com/leafflew/worker)用于收集声援工人行动的相关文章，并参考[端点星计划](https://github.com/Terminus2049/Terminus2049.github.io)进行维护。*
 *以下为端点星计划介绍，可作为同类型项目的参考教程*
 
 > ## **端点星计划是什么**
