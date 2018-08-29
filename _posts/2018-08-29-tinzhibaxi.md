@@ -4,7 +4,7 @@ layout: post
 tags:
   - 声援团
 comments: true
-title: 停止暗度陈仓的把戏，立即无条件释放所有被捕工友
+title: 停止暗度陈仓的把戏，立即无条件释放所有被捕工友！
 ---
 
 
